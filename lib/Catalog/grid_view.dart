@@ -44,7 +44,7 @@ class _GridViewScreenState extends State<GridViewScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('Каталог товаров'),
+          title: Text('Каталог'),
           centerTitle: true,
           backgroundColor: Colors.blue,
         ),
